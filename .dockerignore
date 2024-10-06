@@ -1,0 +1,45 @@
+# 虚拟环境
+venv/
+env/
+*.pyc
+__pycache__/
+
+# IDE 相关文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 单元测试 / 覆盖率报告
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# 构建输出
+build/
+dist/
+*.egg-info/
+
+# 其他不需要的文件
+*.bak
+*.tmp
+*.temp

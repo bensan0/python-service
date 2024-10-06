@@ -1,0 +1,4 @@
+Flask==3.0.3
+nacos_sdk_python==1.0.0
+python-dotenv==1.0.1
+selenium==4.25.0
